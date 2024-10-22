@@ -1,6 +1,9 @@
-[![HitCount](http://hits.dwyl.com/ishandeveloper/Portfolio.svg)](http://hits.dwyl.com/ishandeveloper/Portfolio)
+# [![HitCount](http://hits.dwyl.com/ishandeveloper/Portfolio.svg)](http://hits.dwyl.com/ishandeveloper/Portfolio)
+
 ## Portfolio [Progressive Web App]
+
 #### A clean, beautiful and fully responsive progressive web app based portfolio template for Developers! 
+
 ##### Optimized For Github Pages
 
 <img src="https://github.com/ishandeveloper/Portfolio/blob/master/screenshots/1.png?raw=false">
@@ -9,6 +12,7 @@
 <pre><a href="https://ishandeveloper.com/Portfolio/">VIEW LIVE DEMO</a></pre>
 
 ### TECHNOLOGIES USED
+
 * HTML5
 * CSS
 * JAVASCRIPT
@@ -23,8 +27,12 @@
 ### Just a sidenote ✉
 I value keeping this site open source, but as you all know, plagiarism is bad. I spent a non-negligible amount of effort developing, designing, and trying to perfect this iteration of my website, and I am proud of it! All I ask is to not claim this effort as your own.
 
-So, feel free to fork this repo. If you do, please just give me proper credit by linking back to my website.
+So, feel free to fork this. If you do, please just give me proper credit by linking back to my website.
+okay sir
 
 ##### Made with ❤ by <a href="https://github.com/ishandeveloper">ishandeveloper</a>
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/ishandeveloper)
+
+##### Gangsta 
+rap is crazy stuff 
