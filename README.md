@@ -2,7 +2,7 @@
 
 ## Portfolio  [Progressive Web App]
 
-#### A clean, beautiful and fully responsive progressive web app based portfolio template for Developers! 
+#### A clean,  beautiful and fully responsive progressive web app based portfolio template for Developers! 
 
 ##### Optimized For Github Pages
 
